@@ -1,0 +1,174 @@
+.grad {
+	background: red; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #4ECDC4, #556270);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4ECDC4, #556270);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4ECDC4, #556270);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4ECDC4, #556270);
+	/* Standard syntax */
+	font-family: garamond;
+}
+
+.material-icons {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px; /* Preferred icon size */
+	display: inline-block;
+	line-height: 1;
+	text-transform: none;
+	letter-spacing: normal;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+	/* Support for all WebKit browsers. */
+	-webkit-font-smoothing: antialiased;
+	/* Support for Safari and Chrome. */
+	text-rendering: optimizeLegibility;
+	/* Support for Firefox. */
+	-moz-osx-font-smoothing: grayscale;
+	/* Support for IE. */
+	font-feature-settings: 'liga';
+}
+
+.nav-item {
+	width: 100%;
+	background-color:#39CCCC;
+}
+
+.siteToolbar {
+	background-color: #39CCCC !important;
+	background: #39CCCC; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #4ECDC4, #556270);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4ECDC4, #556270);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4ECDC4, #556270);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4ECDC4, #556270);
+	/* Standard syntax */
+}
+
+.siteButton {
+	background-color: #888888;
+}
+
+#activitySummary {
+	background-color: #ffaaaa;
+	background: red; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #4ECDC4, #556270);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4ECDC4, #556270);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4ECDC4, #556270);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4ECDC4, #556270);
+	/* Standard syntax */
+}
+
+.center {
+	align-self: center;
+	text-align: center;
+}
+
+#profilePicture {
+	align-self: center;
+}
+
+.profileInfo {
+	align-self: center;
+}
+
+/* 
+  Leaderboard styling
+*/
+.leaderboardContent {
+	background-color: #dd7777;
+	height: 100vh;
+}
+
+.cardTitle {
+	margin-left: 15vw;
+}
+
+.cardText {
+	width: 50%;
+	float: right;
+}
+
+/*
+  Profile Styling
+*/
+.dataField {
+	padding: 20px;
+	background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #4ECDC4, #556270); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #4ECDC4, #556270); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #4ECDC4, #556270); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #4ECDC4, #556270); /* Standard syntax */
+}
+
+/*
+  History Styling
+*/
+.historyContent {
+	/*   background-color: #dd7777; */
+	min-height: 100vh;
+	background: red; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #4ECDC4, #556270);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4ECDC4, #556270);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4ECDC4, #556270);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4ECDC4, #556270);
+	/* Standard syntax */
+}
+
+.leaderboardSection {
+	
+}
+
+/*
+  Main Page Styling
+*/
+.stockButton {
+	margin-top: 20px;
+}
+
+.stockContainer {
+	background-color: #ffdddd;
+	background: red; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #4ECDC4, #556270);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4ECDC4, #556270);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4ECDC4, #556270);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4ECDC4, #556270);
+	/* Standard syntax */
+}
+
+.actionRow {
+	margin-bottom: 40px !important;
+}
+
+#profileSummary {
+	background-color: #dd7777;
+	background: red; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #4ECDC4, #556270);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4ECDC4, #556270);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4ECDC4, #556270);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4ECDC4, #556270);
+	/* Standard syntax */
+}
+
+#profileCard {
+	max-width: 400px;
+	align-self: center;
+}
